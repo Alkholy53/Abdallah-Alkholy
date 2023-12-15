@@ -33,7 +33,7 @@
 </p>
 <!-- Social Links -->
 <p align="center">
-  <a href="[https://linkedin.com/in/mostafa-magdy-hassan-1abbb424a/](https://www.linkedin.com/in/abdallah-alkholy-9b9a36181/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/abdallah-alkholy-9b9a36181/](https://www.linkedin.com/in/abdallah-alkholy-9b9a36181/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="[https://drive.google.com/file/d/1x4CyRgEs5J7h3f3Pza8uX880mCjBUFVc/view](https://drive.google.com/file/d/1ajWsYPbdZQ4Kw1SYOF3V0Cqmtwe2zefN/view?usp=sharing)" target="_blank">
@@ -64,10 +64,10 @@
 </div>
 
 
-[![Alkholy's github activity graph for the year](https://github-readme-activity-graph.vercel.app/graph?username=Alkholy53&custom_title=Mostafa's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alkholy's github activity graph for the year](https://github-readme-activity-graph.vercel.app/graph?username=Alkholy53&custom_title=Alkholy's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
 <hr>
 <br>
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Mostafa10770/Mostafa10770/blob/main/Mostafa.svg">
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Alkholy53/Alkholy53/blob/main/Alkholy53.svg">
